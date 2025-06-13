@@ -4,3 +4,4 @@ openai
 Requests
 firecrawl-py
 elevenlabs
+Beautifulsoup4
