@@ -1,7 +1,9 @@
-agno==1.2.8
-streamlit==1.44.1
-openai
-Requests
-firecrawl-py
-elevenlabs
-Beautifulsoup4
+streamlit
+requests
+beautifulsoup4
+transformers
+sentencepiece
+torch
+uuid
+agno[tools]
+
